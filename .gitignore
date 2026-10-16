@@ -1,0 +1,16 @@
+# Data files (too large for GitHub - each >100 MB)
+data/
+
+# Output / results folders
+eda_output/
+History_MatchingV4/
+History_MatchingV5/
+History_MatchingV6/
+Judges_Output/
+Judges_OutputV2/
+Judges_OutputV3/
+proxy_output/
+proxy_outputV2/
+
+# VS Code temp file
+tempCodeRunnerFile.py
